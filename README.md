@@ -1,0 +1,2 @@
+# Workflow-Operations-Performance-Analysis-SQL-Power-BI-
+end-to-end Business Intelligence project analyzes workflow operations data using SQL and Power BI to evaluate operational efficiency, monitor key performance indicators (KPIs), identify workflow bottlenecks, and support data-driven business decisions.  The project combines SQL for data analysis and Power BI for interactive dashboard development.
